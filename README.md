@@ -1,5 +1,5 @@
 # Darwin-WGA
-Co-processor for whole genome alignment
+A co-processor for whole genome alignment.
 
 To appear in HPCA 2019.
 
